@@ -1,4 +1,4 @@
-# ember-ghost-casper-template
+# empress-blog-attila-template
 
 This is a template designed to work with [empress-blog](https://github.com/empress/empress-blog) and is a fully-functional, static site implementation of the
 [Attila Template](https://github.com/zutrinken/attila) built on EmberJS with fully working out of the
