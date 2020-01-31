@@ -6,7 +6,7 @@ module.exports = function(defaults) {
   let app = new EmberAddon(defaults, {
     fingerprint: {
       extensions: ['js', 'css', 'map']
-    },
+    }
   });
 
   /*

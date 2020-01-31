@@ -4,7 +4,7 @@ var Funnel = require('broccoli-funnel');
 const { join } = require('path');
 
 module.exports = {
-  name: 'ember-ghost-attila-template',
+  name: 'empress-blog-attila-template',
   included: function(/* app */) {
     this._super.included.apply(this, arguments);
   },

@@ -1,1 +1,1 @@
-export { default } from 'ember-ghost-attila-template/components/hidden-close';
+export { default } from 'empress-blog-attila-template/components/hidden-close';

@@ -1,1 +1,1 @@
-export { default } from 'ember-ghost-attila-template/components/image-attribution';
+export { default } from 'empress-blog-attila-template/components/image-attribution';

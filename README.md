@@ -5,7 +5,7 @@ This is a template designed to work with [empress-blog](https://github.com/empre
 box SEO friendly output. It supports being hosted on Github Pages, AWS S3 or any other static site
 hosting solution.
 
-For more information on how to use this system [read the Ember Ghost documentation](https://github.com/empress/empress-blog/blob/master/README.md) but if you want to get started straight away, try the quick start below.
+For more information on how to use this system [read the empress-blog documentation](https://github.com/empress/empress-blog/blob/master/README.md) but if you want to get started straight away, try the quick start below.
 
 If you want to see a demo of this template you can checkout [https://empress-blog-attila-template.netlify.com/](https://empress-blog-attila-template.netlify.com/)
 

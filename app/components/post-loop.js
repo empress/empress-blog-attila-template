@@ -1,1 +1,1 @@
-export { default } from 'ember-ghost-attila-template/components/post-loop';
+export { default } from 'empress-blog-attila-template/components/post-loop';

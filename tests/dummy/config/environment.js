@@ -6,6 +6,7 @@ module.exports = function(environment) {
     environment,
     rootURL: '/',
     locationType: 'auto',
+
     EmberENV: {
       FEATURES: {
         // Here you can enable experimental features on an ember canary build
@@ -21,14 +22,20 @@ module.exports = function(environment) {
       // Here you can pass flags/options to your application instance
       // when it is created
     },
+
     blog: {
-      title: "ember ghost attila template",
-      description: "The Attila theme for Ember Ghost",
-      navigation: [
-        { label: 'Home', route: 'index' },
-        { label: 'Built by Stone Circle', route: 'page', id: 'stone-circle' }
-      ]
-    },
+      title: 'empress-blog attila template',
+      description: 'The Attila theme for empress-blog',
+
+      navigation: [{
+        label: 'Home',
+        route: 'index'
+      }, {
+        label: 'Built by Chris Manson',
+        route: 'page',
+        id: 'chris-manson'
+      }]
+    }
   };
 
   if (environment === 'development') {
