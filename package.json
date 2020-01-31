@@ -1,7 +1,7 @@
 {
   "name": "empress-blog-attila-template",
   "description": "Static Site Template designed to work with empress-blog",
-  "version": "1.0.7",
+  "version": "1.1.0",
   "keywords": [
     "ember-addon",
     "empress-blog",
